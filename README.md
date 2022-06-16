@@ -1,3 +1,3 @@
 Nao esqueca de apos clonar o projeto utilizar o comando:
-- npm install
+npm install
 para que seja possivel baixar os pacotes do node modules.
